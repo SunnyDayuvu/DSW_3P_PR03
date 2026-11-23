@@ -167,3 +167,7 @@ C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\obj\Debug\net10.0\refint\DS
 C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\obj\Debug\net10.0\DSW_3P_PR03.pdb
 C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\obj\Debug\net10.0\DSW_3P_PR03.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\obj\Debug\net10.0\ref\DSW_3P_PR03.dll
+C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Documents\DSW\Parcial 3\DSW_3P_PR03\obj\Debug\net10.0\DSW_3P_PR03.sourcelink.json
